@@ -64,4 +64,6 @@ The onion shop’s layout is modern and **easy to navigate**, making it simple f
 [![img](/screenshots/line.webp)](http://hh2paw7ouhfjozylujs3qp4rql7xc76ce63ffzvtlpicjqgeiqxp4oad.onion)
 
 
-Update:  09/18/2025
+
+
+Update:  01 October link is functioning
